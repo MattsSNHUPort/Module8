@@ -1,0 +1,2 @@
+C:\Users\Jess\source\repos\Clock\Debug\Clock.exe
+C:\Users\Jess\source\repos\Clock\Debug\Clock.pdb
